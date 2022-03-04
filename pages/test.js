@@ -7,11 +7,11 @@ export default function Test() {
     
     <Head>
      
-      <meta property="og:url"           content="https://viassim.com.br " />
+      <meta property="og:url"           content="https://alura-cursos-divulgacao.vercel.app/test" />
       <meta property="og:type"          content="website" />
-      <meta property="og:title"         content="Minha foto a venda" />
-      <meta property="og:description"   content="Foto a venda com todas as informações necessárias" />
-      <meta property="og:image"         content="https://site-viassim.s3-sa-east-1.amazonaws.com/54242826485603061bb3c3678adc800165156ee.jpeg" />
+      <meta property="og:title"         content="Estou vendendo uma foto na ViAssim" />
+      <meta property="og:description"   content="Venha ver minha foto na ViAssim!" />
+      <meta property="og:image"         content="https://site-viassim.s3-sa-east-1.amazonaws.com/20761039286010661533429469df6001658596c.jpeg" />
       
     </Head>
 
@@ -36,7 +36,7 @@ export default function Test() {
       />
 
       <div class="fb-share-button" 
-      data-href="https://viassim.com.br" 
+      data-href="https://alura-cursos-divulgacao.vercel.app/test" 
       data-layout="button_count">
       </div>
 
